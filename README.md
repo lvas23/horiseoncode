@@ -15,4 +15,4 @@ On <!--font-family-->
  
 ## Installation 
 
-URL for deployed application: 
+URL for deployed application:  https://lvas23.github.io/horiseoncode/
